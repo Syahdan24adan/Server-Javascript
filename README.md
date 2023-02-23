@@ -6,13 +6,13 @@
 
 <h3>Install Express JS</h3>
 <ul>
-  <li>`npm install express --save`</li>
+  <li>npm install express --save</li>
 </ul>
 
 <h3>Install PM2</h3>
 
 <ul>
-  <li>`npm install pm2 -g`</li>
+  `<li>npm install pm2 -g</li>`
 </ul>
 
 ## Instalasi
