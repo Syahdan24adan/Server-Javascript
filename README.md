@@ -14,3 +14,10 @@
 <ul>
   <li>npm install pm2 -g</li>
 </ul>
+
+## Instalasi
+
+1. Clone repository ini: `git clone https://github.com/Syahdan24adan/Server-Javascript.git
+2. Pindah ke direktori proyek: `cd Server-Javascript`
+3. Install dependensi: `npm install`
+4. Jalankan aplikasi: `npm start`
