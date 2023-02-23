@@ -5,5 +5,5 @@ Membuat direktori proyek: Buat direktori baru untuk proyek Anda. Anda dapat memb
 
 Menginstal Express.js: Setelah direktori proyek dibuat, buka terminal atau command prompt dan arahkan ke direktori proyek yang baru dibuat. Kemudian jalankan perintah berikut untuk menginstal Express.js:
 
-===========================<h1>Install Express JS</h1>===========================
+<h1>Install Express JS</h1>
 npm install express --save
