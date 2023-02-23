@@ -6,18 +6,18 @@
 
 <h3>Install Express JS</h3>
 <ul>
-  <li>npm install express --save</li>
+  <li>`npm install express --save`</li>
 </ul>
 
 <h3>Install PM2</h3>
 
 <ul>
-  <li>npm install pm2 -g</li>
+  <li>`npm install pm2 -g`</li>
 </ul>
 
 ## Instalasi
 
-1. Clone repository ini: `git clone https://github.com/Syahdan24adan/Server-Javascript.git
+1. Clone repository ini: `git clone https://github.com/Syahdan24adan/Server-Javascript.git`
 2. Pindah ke direktori proyek: `cd Server-Javascript`
 3. Install dependensi: `npm install`
 4. Jalankan aplikasi: `npm start`
